@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+
+.alternatives{
+    background-color: black;
+    padding: 5vh;
+    margin: 5vh;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10%;
+}
+
+.xd{
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.a{
+    background-color: blue;
+    border-radius: 50%;
+    height: 10vh;
+    width: 10vh;
+    padding: 2vh;
+}
+
+.b{
+    background-color: blue;
+    border-radius: 50%;
+    height: 10vh;
+    width: 10vh;
+    padding: 2vh;
+}
+.c{
+    background-color: blue;
+    border-radius: 50%;
+    height: 10vh;
+    width: 10vh;
+    padding: 2vh;
+}
+.d{
+    background-color: blue;
+    border-radius: 50%;
+    height: 10vh;
+    width: 10vh;
+    padding: 2vh;
+}
